@@ -15,4 +15,4 @@
 <p>use ngrok command to check the version and help</p>
 <p>To start the server type ngrok http 5000 in command prompt.</p>
 <p>You should see something similar to the following console UI in your terminal.</p> 
-<img src="/ngrok.PNG" alt="" width="1186" height="400">
+<img src="/ngrok.PNG" alt="" width="2000" height="600">
