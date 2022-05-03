@@ -18,5 +18,5 @@
 <img src="/ngrok.PNG" alt="" width="2000" height="500">
 
 <h2>Webhook</h2>
-<p>To make dialogflow interact with our API we need to add ngrok url in webhook<p>
+<p>To make dialogflow interact with our API we need to add ngrok url in webhook under Fulfillment.<p>
 <img src="/05.PNG" alt="" width="700" height="500">
