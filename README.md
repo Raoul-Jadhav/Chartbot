@@ -14,4 +14,5 @@
 <p>install ngrok in your system, for windows use pip install ngrok in command prompt.</p>
 <p>use ngrok command to check the version and help</p>
 <p>To start the server type ngrok http 5000 in command prompt.</p>
-  
+<p>You should see something similar to the following console UI in your terminal.</p> 
+<img src="/05.PNG" alt="" width="700" height="500">
